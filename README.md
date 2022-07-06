@@ -1,5 +1,5 @@
-# Hillbilly-Invasion---Legion-Square![hillbilly invasion]
-(https://user-images.githubusercontent.com/91137866/177657706-80a37d7b-d186-4392-a79d-e001171a8f63.JPG)
+# Hillbilly-Invasion---Legion-Square!
+
 
 GTA5 - The hillbillys have left Sandy Shores and came downtown to cause trouble
 
@@ -17,3 +17,4 @@ They have been given 7 vehicles to drive around in
 7. versus
 
 This is a stand alone resource.
+![hillbilly invasion](https://user-images.githubusercontent.com/91137866/177657770-abc45bcd-68ec-4e9b-b214-c473c3f6db46.JPG)
